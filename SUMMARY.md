@@ -1,6 +1,9 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [천번째문서](test.md)
-* [두분째문서](test2.md)
+* [docs](README.md)
+* [test1](test1.md)
+
+## test1 group
+
+* [test2](test1-group/test2.md)
 
